@@ -8,7 +8,8 @@ public class First{
 int number=200;
 for(int i=100; i<=number; i+=2) {
 	System.out.println(i);
+	syout("madhan")l
 
-}
+;
 }
 }
